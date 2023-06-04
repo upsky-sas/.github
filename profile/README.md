@@ -1,4 +1,4 @@
-![UpSky Logo](/assets/logo-b.png)
+![UpSky Logo](/assets/logo-w.png)
 # Welcome to UpSky
 
 Hey, welcome aboard. This is UpSky's top secret organization.
